@@ -1,0 +1,10 @@
+C:\Users\Hi\Desktop\demo\Lap02\Lap02\bin\Debug\Lap02.exe.config
+C:\Users\Hi\Desktop\demo\Lap02\Lap02\bin\Debug\Lap02.exe
+C:\Users\Hi\Desktop\demo\Lap02\Lap02\bin\Debug\Lap02.pdb
+C:\Users\Hi\Desktop\demo\Lap02\Lap02\obj\Debug\Lap02.csproj.AssemblyReference.cache
+C:\Users\Hi\Desktop\demo\Lap02\Lap02\obj\Debug\Lap02.frmCalculator.resources
+C:\Users\Hi\Desktop\demo\Lap02\Lap02\obj\Debug\Lap02.Properties.Resources.resources
+C:\Users\Hi\Desktop\demo\Lap02\Lap02\obj\Debug\Lap02.csproj.GenerateResource.cache
+C:\Users\Hi\Desktop\demo\Lap02\Lap02\obj\Debug\Lap02.csproj.CoreCompileInputs.cache
+C:\Users\Hi\Desktop\demo\Lap02\Lap02\obj\Debug\Lap02.exe
+C:\Users\Hi\Desktop\demo\Lap02\Lap02\obj\Debug\Lap02.pdb
